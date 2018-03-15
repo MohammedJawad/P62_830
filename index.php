@@ -8,6 +8,7 @@ var_dump($o1); // 0=>1,1=>2,2=>3 : Les mêmes indices dans les deux tableaux : L
 <head lang="en">
 	<meta charset="UTF-8">
 	<title>Tableaux PHP (particularités)</title>
+    <link rel="stylesheet" href="style/main.css">
 </head>
 <body>
 <h1>Tableaux PHP (particularités)</h1>
